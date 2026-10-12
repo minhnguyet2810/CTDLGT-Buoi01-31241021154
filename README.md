@@ -1,4 +1,15 @@
+## Thông tin sinh viên
+- Họ tên: Nguyễn Minh Nguyệt
+- MSSV: 31241021154
+- Lớp học phần: 26C1INF50900706
 
+## Kiểm thử
+- Bài 1: 4 test case (số khác nhau, số trùng, ba số bằng nhau, số âm).
+- Bài 2: 5 test case (thông thường, trùng nhau, số âm, tất cả bằng nhau, kích thước nhỏ nhất).
+- Bài 3: 3 test case nhập thủ công và thực nghiệm với n = 100, 1000, 10000.
+
+## Công cụ AI
+Sử dụng ChatGPT để hỗ trợ giải thích thuật toán, viết và kiểm tra mã nguồn, phân tích độ phức tạp và trình bày báo cáo.
 # CTDLGT - Bài tập thực hành 01
 
 ## Nội dung
